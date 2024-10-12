@@ -65,9 +65,9 @@ const displayDetails = async(idMeal) => {
                         <p class="text-sm md:text-md font-semibold text-gray-500"><i class="fa-solid fa-mercury "></i>  <span class="text-[#010d78] mr-2" > Instructions: </span>  ${strInstructions ?`${strInstructions.slice(0,400)}`: 'Not Available' }</p>
                     </div>
 
-                    
+
                     <div class="">
-                        <p class="text-sm md:text-md font-semibold text-gray-500"> <i class="fa-regular fa-calendar "></i> <span class="text-[#010d78] mr-2" > YouTube: </span>  ${strYoutube ? `${strYoutube}`: 'Not Available'}</p>
+                        <a href="#" class="text-sm md:text-md font-semibold text-gray-500"> <i class="fa-regular fa-calendar "></i> <span class="text-[#010d78] mr-2" > YouTube: </span>  ${strYoutube ? `${strYoutube}`: 'Not Available'}</a>
                     </div>
                 </div>
 
