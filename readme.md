@@ -5,7 +5,7 @@
 
 
 ## Project Live Link:
-<p align="center"> <a href="https://rehan606.github.io/Testy-Hut-Html-Template/" >Click Here to Visit Live Project</a> </p>
+<p align="center"> <a href="https://rehan606.github.io/Testy-Hut-Using-JavaScript-And-API/" >Click Here to Visit Live Project</a> </p>
 
 ## Project Layout:
 <p align="center"><img src="images/project-layout.png" alt=""></p>
